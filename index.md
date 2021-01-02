@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## 毛泽东先生的生平简介
 
-You can use the [editor on GitHub](https://github.com/123ll4321/zuoye/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+您可以使用[GitHub上的编辑器] （https://github.com/123ll4321/zuoye/edit/gh-pages/index.md）维护和预览Markdown文件中网站的内容。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 最初经历
 
-### Markdown
+1893年12月26日生于一个农民家庭。辛亥革命爆发后在起义的新军中当了半年兵。1914～1918年，在湖南第一师范学校求学。毕业前夕和蔡和森等组织革命团体新民学会。五四运动前后接触和接受马克思主义，1920年，在湖南创建共产主义组织。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 主要事件
 
-```markdown
-Syntax highlighted code block
+* 1921年7月，出席中国共产党建党的第一次全国代表大会，后任中共湘区委员会书记，领导长沙、安源等地工人运动。1923年，出席中共第三次全国代表大会，被选为中央执行委员，参加中央领导工作。1924年国共合作后，在国民党第一、第二次全国代表大会上都当选为候补中央执行委员，曾在广州任国民党中央宣传部代理部长，主编《政治周报》，主办第六届农民运动讲习所。1926年11月，任中共中央农民运动委员会书记。
+1925年冬至1927年春，先后发表《中国社会各阶级的分析》、《湖南农民运动考察报告》等著作，指出农民问题在中国革命中的重要地位和无产阶级领导农民斗争的极端重要性，批评了陈独秀的右倾思想。
 
-# Header 1
-## Header 2
-### Header 3
+* 国共合作全面破裂后，在1927年8月中共中央紧急会议上，他提出“政权是由枪杆子中取得的”，即以革命武装夺取政权的思想，并被选为中央政治局候补委员。会后，到湖南、江西边界领导秋收起义。接着率起义部队上井冈山，发动土地革命，创立第一个农村革命根据地。1928年，同朱德领导的起义部队会师，成立工农革命军（不久改称红军）第四军，他任党代表、前敌委员会书记，朱德任军长。以他为主要代表的中国共产党人，从中国的实际出发，在国民党政权统治比较薄弱的农村发展武装斗争，开创了以农村包围城市、最后夺取城市和全国政权的道路。他在《中国的红色政权为什么能够存在？》、《星星之火，可以燎原》等著作中对这个问题从理论上作了阐述。1930年5月，写《反对本本主义》，提出“没有调查，没有发言权”的著名论断。同年8月，红军第一方面军成立，任总政治委员。1931年，中华苏维埃共和国临时政府在江西瑞金成立，被选为主席。1933年，被补选为中共中央政治局委员。从1930年底起，同朱德领导红一方面军战胜了国民党军队的多次“围剿”。以王明为代表的“左”倾路线领导集团进入中央革命根据地以后，将毛泽东排斥于党和红军的领导之外，他们执行不同的战略和政策，导致第五次反“围剿”战争失败。1934年10月，参加红一方面军长征。长征途中，1935年1月中共中央政治局在贵州召开扩大会议（即遵义会议），确立了以毛泽东为代表的新的中央领导。10月，中共中央和红一方面军到达陕北，结束长征。12月，作《论反对日本帝国主义的策略》的报告，阐明了抗日民族统一战线政策。1936年10月，红四方面军和红二方面军经过长征到达甘肃境内，先后同红一方面军会师。同年12月，同周恩来等促使西安事变和平解决，这成为由内战到第二次国共合作、共同抗日的时局转换的枢纽。1936年12月，写《中国革命战争的战略问题》。1937年夏，写《实践论》和《矛盾论》。
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/123ll4321/zuoye/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* 抗日战争开始后，以他为首的中共中央坚持统一战线中的独立自主原则，努力发动群众，开展敌后游击战争，建立了许多大块的抗日根据地。这些抗日根据地大部分是在华北山区，但也有的是在河北平原和苏北平原。1938年10月，在中共扩大的六届六中全会上提出“马克思主义中国化”的指导原则。在抗日战争时期，他发表《论持久战》、《〈共产党人〉发刊词》、《新民主主义论》等重要著作。1942年，领导全党开展整风运动，纠正主观主义和宗派主义，使全党进一步掌握了马克思列宁主义的普遍真理和中国革命的具体实践相结合的基本方向，为夺取抗日战争和全国革命的胜利奠定了思想基础。1943年，领导根据地军民开展生产运动，渡过了严重的经济困难。同年3月，被选为中共中央政治局主席。1945年，主持召开中共第七次全国代表大会，作《论联合政府》的报告。大会制定了“放手发动群众，壮大人民力量，在我党的领导下，打败日本侵略者，解放全国人民，建立一个新民主主义的中国”的战略。毛泽东思想在这次大会上被确定为中共的指导思想。他从七届一中全会起至1976年逝世为止，一直担任中共中央主席。
+抗日战争胜利后，针对蒋介石企图消灭共产党及其武装力量的现实，他提出“针锋相对”的斗争方针。1945年8月赴重庆同蒋介石谈判，表明中国共产党争取国内和平的愿望。
